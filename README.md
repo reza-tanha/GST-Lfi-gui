@@ -33,3 +33,7 @@ $ chmod +x GST-Lfi.py
 ##### GST-LFI-GUI IMAGE MODE
 ![alt text](http://s14.picofile.com/file/8407769818/2.png "GST-LFI-GUI")
 
+
+
+##### GST-LFI-GUI IMAGE ABOUT
+![alt text](http://s15.picofile.com/file/8407770092/3.png "GST-LFI-GUI")
