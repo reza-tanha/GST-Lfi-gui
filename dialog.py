@@ -201,7 +201,7 @@ class Ui_Form_dialog(QMainWindow):
 
     def retranslateUi(self, Form_dialog):
         _translate = QtCore.QCoreApplication.translate
-        Form_dialog.setWindowTitle(_translate("Form_dialog", "Form"))
+        Form_dialog.setWindowTitle(_translate("Form_dialog", "About"))
         self.groupBox.setTitle(_translate("Form_dialog", " GST - Lfi Scannet "))
         self.label_3.setText(_translate("Form_dialog", " GST-Lfi is a automatic tool able to scan Local File Inclusion vulnerabilities"))
         self.label_4.setText(_translate("Form_dialog", " Using many different methods of attack.\n"
