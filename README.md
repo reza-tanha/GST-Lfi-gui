@@ -24,3 +24,12 @@ $ chmod +x GST-Lfi.py
 
 ```
 ## Runing
+#### Fast Scan Mod
+#### Scan /proc/Self/environ
+#### Scan /etc/*
+#### Scan /proc/self/fd/*
+#### Deep Scan <> Scan All Path
+
+##### GST-LFI-GUI IMAGE MODE
+![alt text](http://s14.picofile.com/file/8407769818/2.png "GST-LFI-GUI")
+
