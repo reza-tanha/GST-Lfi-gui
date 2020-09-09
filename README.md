@@ -25,7 +25,7 @@ $ chmod +x GST-Lfi.py
 ```
 ## Runing
 #### Fast Scan Mod
-#### Scan /proc/Self/environ
+#### Scan /proc/Self/*
 #### Scan /etc/*
 #### Scan /proc/self/fd/*
 #### Deep Scan <> Scan All Path
