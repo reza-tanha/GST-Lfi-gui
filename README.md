@@ -20,7 +20,8 @@ GST Lfi GUI is a  automatic tool able to scan  Local File Inclusion vulnerabilit
 ``` 
 $ cd GST-Lfi 
 $ pip3 install -r requirements.txt
-$ chmod +x GST-Lfi.py 
+$ chmod +x GST_Lfi_GUI.py
+$ python3 GST_Lfi_GUI.py
 
 ```
 ## Runing
